@@ -15,10 +15,6 @@
     "nome": "ANA LAURA OLIVEIRA DE ALMEIDA",
     "foto": "ANA LAURA OLIVEIRA DE ALMEIDA.jpg"
   },
-  "5": {
-    "nome": "ANTHONY GABRIEL DE TOLEDO CONCEIÇÃO",
-    "foto": "ANTHONY GABRIEL DE TOLEDO CONCEIÇÃO.jpg"
-  },
   "6": {
     "nome": "BIANCA KAROLINE DA SILVA FONSECA",
     "foto": "BIANCA KAROLINE DA SILVA FONSECA.jpg"
@@ -38,10 +34,6 @@
   "11": {
     "nome": "ISABELLA GIOVANA RODOLFO",
     "foto": "ISABELLA GIOVANA RODOLFO.jpg"
-  },
-  "12": {
-    "nome": "JENYFER VITÓRIA SINICO DOS SANTOS",
-    "foto": "JENYFER VITÓRIA SINICO DOS SANTOS.jpg"
   },
   "13": {
     "nome": "JOÃO MATHEUS NASCIMENTO DOS SANTOS",
@@ -103,14 +95,6 @@
     "nome": "PAULO OLIVEIRA",
     "foto": "PAULO OLIVEIRA.jpg"
   },
-  "28": {
-    "nome": "PEDRO HENRIQUE SANTANA NASCIMENTO",
-    "foto": "PEDRO HENRIQUE SANTANA NASCIMENTO.jpg"
-  },
-  "29": {
-    "nome": "RAFAEL EDUARDO OLIVEIRA MATOS",
-    "foto": "RAFAEL EDUARDO OLIVEIRA MATOS.jpg"
-  },
   "30": {
     "nome": "THAÍS VITÓRIA ALVES RIBEIRO",
     "foto": "THAÍS VITÓRIA ALVES RIBEIRO.jpg"
@@ -139,8 +123,24 @@
     "nome": "YASMIM GONÇALVES DA SILVA",
     "foto": "YASMIM GONÇALVES DA SILVA.jpg"
   },
-  "37": {
-    "nome": "LUÍS GABRIEL ANASTÁCIO",
-    "foto": "LUÍS GABRIEL ANASTÁCIO.jpg"
+  "38": {
+    "nome": "ELLEN FONTANIELLO",
+    "foto": "ELLEN FONTANIELLO.jpg"
+  },
+  "41": {
+    "nome": "LORENNA CRISTINA COUTINHO CARLOS",
+    "foto": "LORENNA CRISTINA COUTINHO CARLOS.jpg"
+  },
+  "42": {
+    "nome": "NATHALYN BRUNA ROSA TUPAN",
+    "foto": "NATHALYN BRUNA ROSA TUPAN.jpg"
+  },
+  "44": {
+    "nome": "ANA LIVIA CARDANI",
+    "foto": "ANA LIVIA CARDANI.jpg"
+  },
+  "45": {
+    "nome": "RAFAEL EDUARDO OLIVEIRA MATOS",
+    "foto": "RAFAEL EDUARDO OLIVEIRA MATOS.jpg"
   }
 }
